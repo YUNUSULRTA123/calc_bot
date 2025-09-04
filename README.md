@@ -49,3 +49,12 @@ python main.py
 └── README.md       # документация
 
 ```
+
+## ⚙️ Требования
+- Python 3.8+
+- pyTelegramBotAPI
+
+
+## 📬 Контакты
+
+Автор: [@YUNUSULTRA123](https://github.com/YUNUSULRTA123)
