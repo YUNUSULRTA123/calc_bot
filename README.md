@@ -54,6 +54,10 @@ python main.py
 - Python 3.8+
 - pyTelegramBotAPI
 
+## 📑 Документация
+- [Документация (DOCS.md)](README.md)
+- [Дорожная карта (ROADMAP.md)](ROADMAP.md)
+- [Политика безопасности (SECURITY.md)](Security.md)
 
 ## 📬 Контакты
 
