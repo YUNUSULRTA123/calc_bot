@@ -20,8 +20,8 @@
 
 1. Склонировать репозиторий:
 ```bash
-git clone [https://github.com/username/calculator-bot.git](https://github.com/YUNUSULRTA123/calc_bot.git)
-cd calculator-bot
+git clone https://github.com/YUNUSULRTA123/calc_bot.git
+cd calc_bot
 ```
 
 2. Установить зависимости:
@@ -30,3 +30,6 @@ pip install pytelegrambotapi
 ```
 
 3. Создать файл ```config.py``` и добавить в него токен:
+```python
+token = "ВАШ_ТОКЕН_ОТ_BOTFATHER"
+```
