@@ -58,3 +58,5 @@ python main.py
 ## 📬 Контакты
 
 Автор: [@YUNUSULTRA123](https://github.com/YUNUSULRTA123)
+ТГ: <img width="512" height="512" alt="clck" src="https://github.com/user-attachments/assets/a970d50e-ba55-4c0e-9360-6e9c9be7dce7" />
+
