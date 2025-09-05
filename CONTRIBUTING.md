@@ -24,12 +24,12 @@ git checkout -b feature/my-feature
 ```
    
 3. Внесите изменения и закоммитьте:
-   ```bash
+```bash
 git commit -m "Добавил новую функцию"
 ```
 
 4. Отправьте изменения в свой форк:
-   ```bash
+```bash
 git push origin feature/my-feature
 ```
 
