@@ -20,8 +20,7 @@
 1. Сделайте форк репозитория  
 2. Создайте новую ветку для изменений:
    ```bash
-   git checkout -b feature/my-feature
-```
+   git checkout -b feature/my-feature ```
 3. Внесите изменения и закоммитьте:
    ```bash
 git commit -m "Добавил новую функцию"
