@@ -19,8 +19,8 @@
 
 1. Сделайте форк репозитория  
 2. Создайте новую ветку для изменений:
-   ```bash
-   git checkout -b feature/my-feature
+```bash
+git checkout -b feature/my-feature
 ```
    
 3. Внесите изменения и закоммитьте:
