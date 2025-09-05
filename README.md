@@ -55,9 +55,10 @@ python main.py
 - pyTelegramBotAPI
 
 ## 📑 Документация
-- [Документация (DOCS.md)](README.md)
+- [Документация (README.md)](README.md)
 - [Дорожная карта (ROADMAP.md)](ROADMAP.md)
 - [Политика безопасности (SECURITY.md)](Security.md)
+- [Как внести вклад (CONTRIBUTING.md)](CONTRIBUTING.md)
 
 ## 📬 Контакты
 
